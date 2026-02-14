@@ -36,6 +36,27 @@
 0.0.0.0 actuall.com
 0.0.0.0 altavozdesucesos.es
 0.0.0.0 elmunicipio.es
+0.0.0.0 outono.net
+0.0.0.0 mpr21.info
+0.0.0.0 correodeespana.com
+0.0.0.0 ntvespana.com
+0.0.0.0 euskalnews.com
+0.0.0.0 euskalnews.tv
+0.0.0.0 dolcacatalunya.com
+0.0.0.0 edatv.news
+0.0.0.0 informaradio.edatv.news
+0.0.0.0 eltorotv.com
+0.0.0.0 intereconomia.com
+0.0.0.0 radiolibertad.es
+0.0.0.0 7nn.tv
+0.0.0.0 casoaislado.com
+0.0.0.0 elmatinal.com
+0.0.0.0 losreplicantes.com
+0.0.0.0 okdiario.com
+0.0.0.0 mediterraneopost.com
+0.0.0.0 esdiario.com
+0.0.0.0 periodistadigital.com
+
 
 # --- France (France) ---
 0.0.0.0 bvoltaire.fr
