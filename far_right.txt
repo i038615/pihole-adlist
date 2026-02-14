@@ -22,6 +22,7 @@
 
 # --- Spain (España) ---
 0.0.0.0 voxespana.es
+0.0.0.0 www.voxespana.es
 0.0.0.0 gaceta.es
 0.0.0.0 mediterraneodigital.com
 0.0.0.0 alertadigital.com
@@ -56,7 +57,7 @@
 0.0.0.0 mediterraneopost.com
 0.0.0.0 esdiario.com
 0.0.0.0 periodistadigital.com
-
+0.0.0.0 patriots.eu
 
 # --- France (France) ---
 0.0.0.0 bvoltaire.fr
