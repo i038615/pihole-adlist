@@ -1,0 +1,92 @@
+# Pi-hole blocklist (hosts format) - far-right / extreme-right content (Spain + Europe + some global)
+
+# --- Global / international ---
+0.0.0.0 stormfront.org
+0.0.0.0 therightstuff.biz
+0.0.0.0 amren.com
+0.0.0.0 vdare.com
+0.0.0.0 nationalvanguard.org
+0.0.0.0 redice.tv
+0.0.0.0 redicemembers.com
+0.0.0.0 unz.com
+0.0.0.0 unz.org
+0.0.0.0 goyimtv.com
+0.0.0.0 gtvflyers.com
+0.0.0.0 theoccidentalobserver.net
+0.0.0.0 ihr.org
+0.0.0.0 gab.com
+0.0.0.0 infowars.com
+0.0.0.0 banned.video
+0.0.0.0 breitbart.com
+0.0.0.0 metapedia.org
+
+# --- Spain (España) ---
+0.0.0.0 voxespana.es
+0.0.0.0 gaceta.es
+0.0.0.0 mediterraneodigital.com
+0.0.0.0 alertadigital.com
+0.0.0.0 alertanacional.es
+0.0.0.0 eldiestro.info
+0.0.0.0 eldiestro.tv
+0.0.0.0 casoaislado.com
+0.0.0.0 despiertainfo.com
+0.0.0.0 ntvespana.com
+0.0.0.0 euskalnews.com
+0.0.0.0 euskalnews.tv
+0.0.0.0 actuall.com
+0.0.0.0 altavozdesucesos.es
+0.0.0.0 elmunicipio.es
+
+# --- France (France) ---
+0.0.0.0 bvoltaire.fr
+0.0.0.0 boulevardvoltaire.fr
+0.0.0.0 fdesouche.com
+0.0.0.0 ripostelaique.com
+0.0.0.0 egaliteetreconciliation.fr
+0.0.0.0 dreuz.com
+0.0.0.0 rc.fr
+0.0.0.0 radiocourtoisie.fr
+0.0.0.0 actionfrancaise.net
+0.0.0.0 minute-hebdo.fr
+0.0.0.0 reinformation.tv
+
+# --- Germany (Deutschland) ---
+0.0.0.0 pi-news.net
+0.0.0.0 compact-online.de
+0.0.0.0 jungefreiheit.de
+0.0.0.0 sezession.de
+0.0.0.0 einprozent.de
+0.0.0.0 identitaere-bewegung.de
+
+# --- Austria (Österreich) ---
+0.0.0.0 unzensuriert.at
+0.0.0.0 unzensuriert.de
+0.0.0.0 auf1.tv
+0.0.0.0 tkp.at
+0.0.0.0 fpoe.at
+0.0.0.0 wochenblick.at
+
+# --- Belgium (Belgique/België) ---
+0.0.0.0 vlaamsbelang.org
+
+# --- Netherlands (Nederland) ---
+0.0.0.0 fvd.nl
+
+# --- Nordics (Scandinavia) ---
+0.0.0.0 samnytt.se
+0.0.0.0 friatider.se
+0.0.0.0 nyheteridag.se
+0.0.0.0 document.no
+0.0.0.0 denkorteavis.dk
+0.0.0.0 sd.se
+
+# --- UK ---
+0.0.0.0 britainfirst.org
+0.0.0.0 generation-identity.org.uk
+
+# --- Italy (Italia) ---
+0.0.0.0 ilprimatonazionale.it
+0.0.0.0 casapounditalia.org
+
+# --- Hungary (Magyarország) ---
+0.0.0.0 kuruc.info
